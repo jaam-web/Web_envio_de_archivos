@@ -43,3 +43,15 @@ Necesitas instalar Flask para ejecutar el servidor web. Abre tu terminal o líne
 
 ```bash
 pip install Flask
+```
+**Activarservidor**
+```bash
+git clone https://github.com/jaam-web/Web_envio_de_archivos
+cd Web_envio_de_archivos
+```
+#edita el archivo app.py y coloca el correo que usaras y la contraseña de aplicacioned 
+***NO recomiendo usar tu correo personal***
+
+``` bash
+python app.py
+```
