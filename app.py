@@ -13,8 +13,8 @@ app = Flask(__name__)
 # --- Configuración de tu cuenta Gmail ---
 # ¡IMPORTANTE!: Reemplaza estos valores con los tuyos.
 # Necesitas una "contraseña de aplicación" de Google aquí, no tu contraseña principal.
-USUARIO_GMAIL = "jaamelectronica@gmail.com"  # Tu dirección de correo electrónico de Gmail
-CONTRASEÑA_APP_GMAIL = "hhxwwcqgovjasyzg" # La contraseña de aplicación generada por Google
+USUARIO_GMAIL = "tucorreo@gmail.com"  # Tu dirección de correo electrónico de Gmail
+CONTRASEÑA_APP_GMAIL = "tucontraseña" # La contraseña de aplicación generada por Google
 
 # --- Configuración del servidor SMTP de Gmail ---
 SERVIDOR_SMTP = "smtp.gmail.com"
