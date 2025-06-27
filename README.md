@@ -1,5 +1,5 @@
 # Aplicación Web para Envío de Correos con Archivos Adjuntos
-![Screenshot_20250627-083734](https://github.com/user-attachments/assets/220b559a-2657-4151-b9e5-cf7dd33d2c46
+![imajen](https://github.com/user-attachments/assets/220b559a-2657-4151-b9e5-cf7dd33d2c46)
 
 Esta es una sencilla aplicación web construida con Flask en Python que permite a los usuarios subir un archivo y enviarlo como adjunto a una dirección de correo electrónico específica a través de Gmail.
 
