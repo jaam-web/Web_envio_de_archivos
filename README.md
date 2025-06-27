@@ -1,4 +1,5 @@
 # Aplicación Web para Envío de Correos con Archivos Adjuntos
+![Screenshot_20250627-083734](https://github.com/user-attachments/assets/220b559a-2657-4151-b9e5-cf7dd33d2c46
 
 Esta es una sencilla aplicación web construida con Flask en Python que permite a los usuarios subir un archivo y enviarlo como adjunto a una dirección de correo electrónico específica a través de Gmail.
 
@@ -34,7 +35,8 @@ Sigue estos pasos:
     * En la página "Contraseñas de aplicaciones":
         * En el menú desplegable "Seleccionar aplicación", elige **Correo**.
         * En el menú desplegable "Seleccionar dispositivo", elige **Otro (nombre personalizado)**.
-        * Introduce un nombre para recordar dónde usas esta contraseña (por ejemplo, "App Flask Enviar Correo") y haz clic en **Generar**.
+        * Introduce un nombre p)
+ara recordar dónde usas esta contraseña (por ejemplo, "App Flask Enviar Correo") y haz clic en **Generar**.
     * Google te mostrará una contraseña de 16 caracteres. **Cópiala inmediatamente**, ya que no la volverás a ver. Esta es la `CONTRASEÑA_APP_GMAIL` que usarás en tu código.
 
 ### 2. Instalar Módulos de Python
@@ -49,7 +51,7 @@ pip install Flask
 git clone https://github.com/jaam-web/Web_envio_de_archivos
 cd Web_envio_de_archivos
 ```
-#edita el archivo app.py y coloca el correo que usaras y la contraseña de aplicacioned 
+Edita el archivo app.py y coloca el correo que usaras y la contraseña de aplicacioned 
 ***NO recomiendo usar tu correo personal***
 
 ``` bash
